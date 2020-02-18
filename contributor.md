@@ -4,7 +4,7 @@
 
 je suis un test
 
-![alt text](images/open_issues.png "txt test")
+![alt text](images/open_issue.png "txt test")
 
 Other
 
